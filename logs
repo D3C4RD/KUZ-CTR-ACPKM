@@ -1,0 +1,76 @@
+2024-05-08 02:09:04 tests completed
+2024-05-08 02:09:04 starting authenfication
+2024-05-08 02:09:06 Authentication successful. Welcome, bob
+2024-05-08 02:09:06 exe file valid
+2024-05-08 02:09:06 key is good
+2024-05-08 02:09:06 encryption completed
+2024-05-08 02:09:06 key cleared
+2024-05-08 02:09:06 end session
+
+2024-05-08 02:09:35 tests completed
+2024-05-08 02:09:35 starting authenfication
+2024-05-08 02:09:37 Authentication successful. Welcome, alice
+2024-05-08 02:09:37 exe file valid
+2024-05-08 02:09:37 key is good
+2024-05-08 02:09:37 Decryptiption completed
+2024-05-08 02:09:37 key cleared
+2024-05-08 02:09:37 session end
+
+2024-05-08 02:10:58 tests completed
+2024-05-08 02:10:58 starting authenfication
+2024-05-08 02:11:01 Authentication successful. Welcome, bob
+2024-05-08 02:11:01 exe file valid
+2024-05-08 02:11:01 key is good
+2024-05-08 02:11:01 Decryptiption completed
+2024-05-08 02:11:01 key cleared
+2024-05-08 02:11:01 session end
+
+2024-05-08 02:11:23 tests completed
+2024-05-08 02:11:23 starting authenfication
+2024-05-08 02:11:25 Authentication successful. Welcome, bob
+2024-05-08 02:11:25 exe file valid
+2024-05-08 02:11:25 key is good
+2024-05-08 02:11:25 encryption completed
+2024-05-08 02:11:25 key cleared
+2024-05-08 02:11:25 end session
+
+2024-05-08 02:11:39 tests completed
+2024-05-08 02:11:39 starting authenfication
+2024-05-08 02:11:42 Authentication successful. Welcome, alice
+2024-05-08 02:11:42 exe file valid
+2024-05-08 02:11:42 key is good
+2024-05-08 02:11:42 Decryptiption completed
+2024-05-08 02:11:42 key cleared
+2024-05-08 02:11:42 session end
+
+2024-05-24 18:32:19 tests completed
+2024-05-24 18:32:19 starting authenfication
+2024-05-24 18:32:22 Authentication successful. Welcome, bob
+2024-05-24 18:32:22 exe file valid
+2024-05-24 18:32:22 key is good
+2024-05-24 18:32:22 encryption completed
+2024-05-24 18:32:22 key cleared
+2024-05-24 18:32:22 end session
+
+2024-05-24 18:32:35 tests completed
+2024-05-24 18:32:35 starting authenfication
+2024-05-24 18:32:39 Authentication successful. Welcome, alice
+2024-05-24 18:32:39 exe file valid
+2024-05-24 18:32:39 key is good
+2024-05-24 18:32:39 Decryptiption completed
+2024-05-24 18:32:39 key cleared
+2024-05-24 18:32:39 session end
+
+2024-05-31 14:42:42 tests completed
+2024-05-31 14:42:42 starting authenfication
+2024-05-31 14:42:58 Authentication successful. Welcome, bob
+2024-05-31 14:42:58 exe file valid
+2024-05-31 14:42:58 key is good
+2024-05-31 14:42:58 encryption completed
+2024-05-31 14:42:58 key cleared
+2024-05-31 14:42:58 end session
+
+2024-05-31 14:44:22 tests completed
+2024-05-31 14:44:22 starting authenfication
+2024-05-31 14:44:24 Authentication failed
+2024-05-31 14:44:34 Cannot add more users. User limit reached.
